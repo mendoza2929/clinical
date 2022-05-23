@@ -53,29 +53,6 @@ body {
     transition: 0.5s;
   }
   
-  .box .inputBox input:focus ~ label,
-  .box .inputBox input:valid ~ label,
-  .box .inputBox input:not([value=""]) ~ label {
-    top: -1.125rem;
-    left: 0;
-    color: #03a9f4;
-    font-size: 0.75rem;
-  }
-  
-  .box input[type="submit"] {
-    border: none;
-    outline: none;
-    color: #fff;
-    background-color: #03a9f4;
-    padding: 0.625rem 1.25rem;
-    cursor: pointer;
-    border-radius: 0.312rem;
-    font-size: 1rem;
-  }
-  
-  .box input[type="submit"]:hover {
-    background-color: #1cb1f5;
-  }
 
 
     .button{
