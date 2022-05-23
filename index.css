@@ -55,6 +55,7 @@ body {
   
 
 
+
     .button{
         padding:15px;
         background-color: #90d6f7;
@@ -139,7 +140,6 @@ table th {
   }
   
   table td::before {
-    content: attr(data-label);
     float: left;
     font-weight: bold;
     text-transform: uppercase;
