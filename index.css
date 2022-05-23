@@ -21,7 +21,7 @@ body {
   .box h2 {
     margin: 0 0 1.875rem;
     padding: 0;
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-align: center;
   }
   
