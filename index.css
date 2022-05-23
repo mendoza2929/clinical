@@ -21,7 +21,7 @@ body {
   .box h2 {
     margin: 0 0 1.875rem;
     padding: 0;
-    color: rgb(0, 0, 0);
+    color: #fff;
     text-align: center;
   }
   
@@ -48,7 +48,7 @@ body {
     left: 0;
     padding: 0.625rem 0;
     font-size: 1rem;
-    color: rgb(0, 0, 0);
+    color: #fff;
     pointer-events: none;
     transition: 0.5s;
   }
