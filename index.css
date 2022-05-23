@@ -33,7 +33,7 @@ body {
     width: 100%;
     padding: 0.625rem 0;
     font-size: 1rem;
-    color: #fff;
+    color: rgb(0, 0, 0);
     letter-spacing: 0.062rem;
     margin-bottom: 1.875rem;
     border: none;
@@ -48,7 +48,7 @@ body {
     left: 0;
     padding: 0.625rem 0;
     font-size: 1rem;
-    color: #fff;
+    color: rgb(0, 0, 0);
     pointer-events: none;
     transition: 0.5s;
   }
